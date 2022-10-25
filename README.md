@@ -1,6 +1,7 @@
 # CNN_Medical_imaging_Pneumonia
 
 Data Set Link : https://drive.google.com/drive/folders/1YryA2gipNb_yuEYCPf4iUpVBj8zSRo2p?usp=sharing
+Trained Model : https://drive.google.com/file/d/1PS5webcyscVjTVIM29bnGnEirHsnlOAh/view?usp=sharing
 
 ## Model Accuracy 
 
